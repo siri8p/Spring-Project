@@ -6,6 +6,7 @@ public class Controller {
 	public static void main(String[] args) {
 	 Controller c = new Controller();
 	 System.out.println(c.a);
+	 System.out.println(c.a);
 		
 	}
 
